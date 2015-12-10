@@ -332,7 +332,7 @@ img.aligncenter{
 }
 
 .archive #main .post h3{
-	line-height: 24px;
+	line-height: 1.2em;
 	margin-bottom: 10px;
 }
 
@@ -804,40 +804,42 @@ h1 {
 	font-size: 2.1em;
 	font-weight: normal;
 	padding-bottom: 10px;
-	line-height: 1em;
+	line-height: 1.2em;
 }
 
 h2 {
 	font-size: 1.8em;
 	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
 	font-weight: normal;
-	line-height: 1em;
+	line-height: 1.2em;
 }
 
 h3 {
 	font-size: 1.65em;
 	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
 	font-weight: normal;
-	line-height: .83em;
+	line-height: 1.2em;
 }
 
 h4 {
 	font-size: 1.5em;
 	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
 	font-weight: normal;
-	line-height: .83em;
+	line-height: 1.2em;
 }
 
 h5 {
 	font-size: 1.4em;
 	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
 	font-weight: normal;
+  lines-height: 1em
 }
 
 h6 {
 	font-size: 1.25em;
 	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
 	font-weight: normal;
+  lines-height: 1em
 }
 
 
