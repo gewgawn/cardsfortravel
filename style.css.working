@@ -742,7 +742,7 @@ blockquote.pull-left{
 font-family: Mission Gothic;
 src: url(fonts/Mission-Gothic-Regular.otf) format('opentype');
 }
-
+*/
 
 @font-face {
     font-family: Mission Gothic;
@@ -767,7 +767,6 @@ src: url(fonts/Mission-Gothic-Regular.otf) format('opentype');
     font-style: normal;
 
 }
-*/
 * {
     margin: 0;
     padding: 0;
@@ -778,7 +777,7 @@ body {
 	color: #252525;
 	font-size: 16px;
 	line-height: 24px;
-	font-family: 'Quattrocento Sans', 'Trebuchet MS', sans-serif;
+	font-family: 'Lusitana', 'times new roman', georgia, serif;
 }
 
 a {
@@ -800,7 +799,7 @@ strong {
 }
 
 h1 {
-	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
+	font-family: 'Mission Gothic', 'Trebuchet MS', sans-serif;
 	font-size: 2.1em;
 	font-weight: normal;
 	padding-bottom: 10px;
@@ -809,34 +808,34 @@ h1 {
 
 h2 {
 	font-size: 1.8em;
-	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
+	font-family: 'Mission Gothic', 'Trebuchet MS', sans-serif;
 	font-weight: normal;
 	line-height: 1em;
 }
 
 h3 {
 	font-size: 1.65em;
-	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
+	font-family: 'Mission Gothic', 'Trebuchet MS', sans-serif;
 	font-weight: normal;
 	line-height: .83em;
 }
 
 h4 {
 	font-size: 1.5em;
-	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
+	font-family: 'Mission Gothic', 'Trebuchet MS', sans-serif;
 	font-weight: normal;
 	line-height: .83em;
 }
 
 h5 {
 	font-size: 1.4em;
-	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
+	font-family: 'Mission Gothic', 'Trebuchet MS', sans-serif;
 	font-weight: normal;
 }
 
 h6 {
 	font-size: 1.25em;
-	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
+	font-family: 'Mission Gothic', 'Trebuchet MS', sans-serif;
 	font-weight: normal;
 }
 
@@ -936,7 +935,7 @@ h2.card-pull-out {
 }
 
 .btn-primary {
-    font-family: 'Oswald', 'times new roman', georgia, serif;
+    font-family: 'Mission Gothic', 'times new roman', georgia, serif;
 }
 
 /* Added by Gewgawn to enlarge page apply buttons */
@@ -947,11 +946,11 @@ h2.card-pull-out {
 /* End fix */
 
 #menu-top-bar {
-	font-family: 'Oswald', 'times new roman', georgia, serif;
+	font-family: 'Mission Gothic', 'times new roman', georgia, serif;
 }
 
 #card-tag-list {
-	font-family: 'Oswald', 'times new roman', georgia, serif;
+	font-family: 'Mission Gothic', 'times new roman', georgia, serif;
 	list-style-type: none;
 	margin: 0;
 	padding-bottom: 18px;
@@ -968,7 +967,7 @@ h2.card-pull-out {
 }
 
 .madmimi input {
-	font-family: 'Oswald', 'times new roman', georgia, serif;
+	font-family: 'Mission Gothic', 'times new roman', georgia, serif;
 	border-bottom: 2px solid #d3d3d3;
 	border-top: none;
 	border-left: none;
@@ -988,12 +987,12 @@ h2.card-pull-out {
 .mad_mimi_success {
 	font-size: 18px;
 	padding-top: 15px;
-	font-family: 'Oswald', 'times new roman', georgia, serif;
+	font-family: 'Mission Gothic', 'times new roman', georgia, serif;
 	text-align: center;
 }
 
 #frmCSCF input {
-	font-family: 'Oswald', 'times new roman', georgia, serif;
+	font-family: 'Mission Gothic', 'times new roman', georgia, serif;
 	border-bottom: 2px solid #d3d3d3;
 	border-top: none;
 	border-left: none;
@@ -1004,7 +1003,7 @@ h2.card-pull-out {
 }
 
 #frmCSCF textarea {
-	font-family: 'Oswald', 'times new roman', georgia, serif;
+	font-family: 'Mission Gothic', 'times new roman', georgia, serif;
 	border: 2px solid #d3d3d3;
 	border-radius: 0px;
 	box-shadow: none;
@@ -1027,7 +1026,7 @@ h2.card-pull-out {
 }
 
 .attribution {
-	font-family: 'Quattrocento Sans', 'Trebuchet MS', sans-serif;
+	font-family: 'Mission Gothic', 'Trebuchet MS', sans-serif;
 	font-size: 14px;
 	padding-top: 10px;
 }
