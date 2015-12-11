@@ -941,8 +941,29 @@ h2.card-pull-out {
 
 /* Added by Gewgawn to enlarge page apply buttons */
 .btn-page {
-  font-size: 2.1em;
+    font-size: 1.6em;
   line-height: 1.3em;
+  background: #A5A5A5;
+  background-image: -webkit-linear-gradient(top, #A5A5A5, #575757);
+  background-image: -moz-linear-gradient(top, #A5A5A5, #575757);
+  background-image: -ms-linear-gradient(top, #A5A5A5, #575757);
+  background-image: -o-linear-gradient(top, #A5A5A5, #575757);
+  background-image: linear-gradient(to bottom, #A5A5A5, #575757);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  color: #ffffff;
+  padding: 5px 20px 10px 20px;
+  border: solid #8c8c8c 2px;
+}
+
+.btn-page:hover {
+	background: #ef4136;
+  background-image: -webkit-linear-gradient(top, #ef4136, #b8221a);
+  background-image: -moz-linear-gradient(top, #ef4136, #b8221a);
+  background-image: -ms-linear-gradient(top, #ef4136, #b8221a);
+  background-image: -o-linear-gradient(top, #ef4136, #b8221a);
+  background-image: linear-gradient(to bottom, #ef4136, #9e1d16);
 }
 /* End fix */
 
