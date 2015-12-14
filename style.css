@@ -937,6 +937,7 @@ h2.card-pull-out {
     width: 35% !important;
 }
 
+/* Button styling */
 .btn-primary {
     font-family: 'Oswald', 'Trebuchet MS', sans-serif;
     background: #A5A5A5;
@@ -961,6 +962,7 @@ h2.card-pull-out {
   background-image: -o-linear-gradient(top, #ef4136, #b8221a);
   background-image: linear-gradient(to bottom, #ef4136, #9e1d16);
 }
+/* End styling */
 
 /* Added by Gewgawn to enlarge page apply buttons */
 .btn-page {
@@ -969,6 +971,12 @@ h2.card-pull-out {
 }
 
 /* End fix */
+
+/* Styling for share icons by Gewgawn */
+.sfsi_Sicons.left {
+    margin-bottom: .5em;
+}
+/* End style */
 
 #menu-top-bar {
 	font-family: 'Oswald', 'Trebuchet MS', sans-serif;
